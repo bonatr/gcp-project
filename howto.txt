@@ -1,6 +1,6 @@
 Git merge vs. rebase
 
-The short:
+The short version:
 git pull --rebase instead of git pull
 
 git rebase -i @{u} before git push
