@@ -1,4 +1,4 @@
-Git merge vs. rebase. How to:
+Git merge vs. rebase. How to use them:
 
 The short version:
 git pull --rebase instead of git pull
