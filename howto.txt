@@ -13,7 +13,6 @@ However if “feature” contains only 1 commit, avoid the merge commit:
 (on “master”) git cherry-pick feature
 
 The long:
-If you enjoy this post, check out my git tips you didn’t know about!
 
 Avoid merge commits that result from git pull
 When you want to push your changes to a branch, but someone else already pushed before you, you have to pull in their changes first. Normally, git does a merge commit in that situation.
